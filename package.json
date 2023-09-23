@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^13.4.12",
-    "@types/dompurify": "^3.0.2",
+    "@types/dompurify": "^3.0.3",
     "@types/jsonwebtoken": "^9.0.2",
     "@types/node": "^20.6.0",
     "@types/react": "^18.2.18",
