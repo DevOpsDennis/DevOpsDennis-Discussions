@@ -37,7 +37,7 @@
     "swr": "^2.2.2"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "^13.4.12",
+    "@next/bundle-analyzer": "^14.0.1",
     "@types/dompurify": "^3.0.3",
     "@types/jsonwebtoken": "^9.0.2",
     "@types/node": "^20.7.1",
