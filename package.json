@@ -53,7 +53,7 @@
     "google-closure-compiler": "^20230802.0.0",
     "next-translate-plugin": "^2.0.5",
     "postcss": "^8.4.33",
-    "postcss-cli": "^10.1.0",
+    "postcss-cli": "^11.0.0",
     "postcss-import": "^16.0.0",
     "prettier": "^3.2.1",
     "prettier-plugin-tailwindcss": "^0.5.11",
