@@ -47,7 +47,7 @@
     "autoprefixer": "^10.4.20",
     "cssnano": "^7.0.6",
     "eslint": "^8.57.1",
-    "eslint-config-next": "^14.2.14",
+    "eslint-config-next": "^14.2.15",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.2.1",
     "google-closure-compiler": "^20240317.0.0",
