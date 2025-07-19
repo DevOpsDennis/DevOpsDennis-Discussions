@@ -48,7 +48,7 @@
     "cssnano": "^7.0.7",
     "eslint": "^8.57.1",
     "eslint-config-next": "^15.3.5",
-    "eslint-config-prettier": "^10.1.5",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.1",
     "google-closure-compiler": "^20250709.0.0",
     "next-translate-plugin": "^2.0.5",
