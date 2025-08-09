@@ -34,7 +34,7 @@
     "react": "npm:@preact/compat",
     "react-dom": "npm:@preact/compat",
     "react-ssr-prepass": "npm:preact-ssr-prepass",
-    "swr": "^2.3.4"
+    "swr": "^2.3.5"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^15.4.5",
