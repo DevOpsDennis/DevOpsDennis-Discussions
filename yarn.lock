@@ -148,6 +148,11 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
+"@mathjax/mathjax-newcm-font@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@mathjax/mathjax-newcm-font/-/mathjax-newcm-font-4.0.0.tgz#01afa8b20f2114665dc1d9a7fbc623a23ddb54e4"
+  integrity sha512-kpsJgIF4FpWiwIkFgOPmWwy5GXfL25spmJJNg27HQxPddmEL8Blx0jn2BuU/nlwjM/9SnYpEfDrWiAMgLPlB8Q==
+
 "@next/bundle-analyzer@^15.4.6":
   version "15.4.6"
   resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-15.4.6.tgz#a9680bcfbfbec283fa24050d38569834ef93de86"
@@ -3127,10 +3132,12 @@ map-obj@^4.0.0:
   resolved "https://registry.npmjs.org/map-obj/-/map-obj-4.3.0.tgz"
   integrity sha512-hdN1wVrZbb29eBGiGjJbeP8JbKjq1urkHJ/LIP/NY48MZ1QVXUsQBV1G1zvYFHn1XE06cwjBsOI2K3Ulnj1YXQ==
 
-mathjax@3.2.0:
-  version "3.2.0"
-  resolved "https://registry.npmjs.org/mathjax/-/mathjax-3.2.0.tgz#ea7c317f8c81776ecfc83b294fc313046bf7f726"
-  integrity sha512-PL+rdYRK4Wxif+SQ94zP/L0sv6/oW/1WdQiIx0Jvn9FZaU5W9E6nlIv8liYAXBNPL2Fw/i+o/mZ1212eSzn0Cw==
+mathjax@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/mathjax/-/mathjax-4.0.0.tgz#ff7aa8b6bfdc7e97e41091a9ed6d8c8f8eefd2a0"
+  integrity sha512-ThMPHiPl9ibZBInAmfoTCNq9MgCdH7ChIQ9YhKFc325noJ4DMzy9/Q14qdcuPzVJjEmC3kyXhwnERZWX3hbWzQ==
+  dependencies:
+    "@mathjax/mathjax-newcm-font" "^4.0.0"
 
 mathml-tag-names@^2.1.3:
   version "2.1.3"
