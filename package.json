@@ -21,7 +21,7 @@
     "format:fix": "prettier --write ."
   },
   "dependencies": {
-    "@primer/octicons-react": "^19.16.0",
+    "@primer/octicons-react": "^19.17.0",
     "dompurify": "^3.2.6",
     "jsonwebtoken": "^9.0.2",
     "lit-html": "^3.3.1",
