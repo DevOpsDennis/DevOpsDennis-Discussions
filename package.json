@@ -29,7 +29,7 @@
     "next": "^16.1.6",
     "next-plugin-preact": "^3.0.7",
     "next-translate": "^2.0.6",
-    "preact": "^10.28.3",
+    "preact": "^10.28.4",
     "preact-render-to-string": "^6.6.6",
     "react": "npm:@preact/compat",
     "react-dom": "npm:@preact/compat",
