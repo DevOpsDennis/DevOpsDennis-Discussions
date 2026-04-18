@@ -312,10 +312,10 @@
   resolved "https://registry.yarnpkg.com/@mathjax/mathjax-newcm-font/-/mathjax-newcm-font-4.1.1.tgz#4e82b3ef8e570b6c8eefb3a8063a656c15e3ee35"
   integrity sha512-LeV5AWzoR7k/k2tg5mW0Ad3Jr9oK9guW/zBUIP8aoiIZcZIhvAV9dlbtUSqSe1wgEBUP1KOcJXcrE/NxOqkxlQ==
 
-"@next/bundle-analyzer@^16.2.2":
-  version "16.2.2"
-  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-16.2.2.tgz#e1b36c536ccebb7a3c5c6f3b275592f6077b6705"
-  integrity sha512-wIpZBHyCv1y+y0dnFmqQFlpX91V94Z7RKnpu1TRP0BRaWB/1M74Iqxa9IJ8lzSO0FyTqKldgDHoQJJmn8F+gIA==
+"@next/bundle-analyzer@^16.2.4":
+  version "16.2.4"
+  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-16.2.4.tgz#8d0b22cb55be13e3648e12abe10f8813f2e055e8"
+  integrity sha512-EAA9xTDv0P1IiUcZaASJJPkNDjRvL7OMTha6XN8MBzALYGfn7I52Mn7vRiyjVfNrtUPi2qiacY+eFVXe3lKCXA==
   dependencies:
     webpack-bundle-analyzer "4.10.1"
 
