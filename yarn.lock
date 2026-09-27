@@ -1446,7 +1446,7 @@ cssesc@^3.0.0:
   resolved "https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz"
   integrity sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==
 
-cssnano-preset-default@^9.0.4:
+cssnano-preset-default@^9.0.5:
   version "9.0.5"
   resolved "https://registry.yarnpkg.com/cssnano-preset-default/-/cssnano-preset-default-9.0.5.tgz#e88b2b4639b95e20fedfea7d22791cf2f9506e28"
   integrity sha512-psQHWcVYCig5PlA+Ni+l9EFB6ow7RX2CR1rGM5TBsjfP/pFZEyCUK62zZqYBFeR1s4XEQ19qvxlxYkKDERuAoQ==
@@ -1486,12 +1486,12 @@ cssnano-utils@^7.0.3:
   resolved "https://registry.yarnpkg.com/cssnano-utils/-/cssnano-utils-7.0.3.tgz#9ac160024c439c0b3591a280c4062789037c5267"
   integrity sha512-KQKwel4/ROikvA9XkOkG7JbmgsipMSl8E7LwvDCjE32zKVz2xjNxxEJxJpbNzCLeeV1WbbD1fRmSUgtuOQeRgg==
 
-cssnano@^9.0.4:
-  version "9.0.4"
-  resolved "https://registry.yarnpkg.com/cssnano/-/cssnano-9.0.4.tgz#c48106b7493adc7e427eaa2a56b3605e485cfadf"
-  integrity sha512-CdXjUnePN8UmFySZ65Oh83DUf/z/VV+yRc86PlMUA4JBJizXiwelynZvfLji+gY/Z94xH+RrCT48wZyqSJdhuw==
+cssnano@^9.0.5:
+  version "9.0.5"
+  resolved "https://registry.yarnpkg.com/cssnano/-/cssnano-9.0.5.tgz#113f2c50be59e34ae06983e32101f56db0f554b6"
+  integrity sha512-D25KanNkgIIcJnFvbm1xinel2YWULKjOao+4pv1m2qCR6KPRxOWh4yRQboxhwVVtifwdVa3cVnSL651sAvHQoA==
   dependencies:
-    cssnano-preset-default "^9.0.4"
+    cssnano-preset-default "^9.0.5"
 
 csso@^5.0.5:
   version "5.0.5"
