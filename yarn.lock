@@ -477,10 +477,10 @@
     "@prefresh/core" "^1.3.3"
     "@prefresh/utils" "^1.1.2"
 
-"@primer/octicons-react@^19.40.0":
-  version "19.40.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons-react/-/octicons-react-19.40.0.tgz#28183fdd402a03ad9e8aae0b853419f1c0a1c675"
-  integrity sha512-z1yyW2WaZxf9t+295e1Ajqj0KXWAg3ZaNk5Q7jMYYsz2e1Pzbya4bkpip+pd1ndmlaYh4kInlmCOAgyDFU+ncw==
+"@primer/octicons-react@^19.42.0":
+  version "19.42.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons-react/-/octicons-react-19.42.0.tgz#3f016e7be6a125e3887eb914e8f111eee62d306f"
+  integrity sha512-KLGHFBK28ubfEhRf1+B4OzfLDO3ItXwqYsPAdrfOPPzN3uD2Jp7rYdE5rLkdCHCzkyjh14eH5vL0pHq8dyJmsA==
 
 "@rtsao/scc@^1.1.0":
   version "1.1.0"
